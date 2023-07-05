@@ -38,7 +38,7 @@ body .aside1 #first div:last-child {
 body .aside1 #second {
   margin: 0 20px;
   display: flex;
-  align-items: center;
+  align-items: baseline;
   flex: 1;
 }
 body .aside1 #second ul {
